@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<?xml-stylesheet type="text/css" href="./css/ejercicio2a.css" ?>
+<!-- ejemplo2.xml  CM20028 -->
+<pais nombre="El Salvador" moneda="Dolar" codtelefono="+503">
+    <departamento id="1" nombre="San Salvador">
+        <cabecera>San Salvador</cabecera>
+        <habitantes>1,700,000</habitantes>
+        <altura>545 MSNM</altura>
+    </departamento>
+    <departamento id="2" nombre="Sonsonate">
+        <cabecera>Sonsonate</cabecera>
+        <habitantes>1,050,000</habitantes>
+        <altura>525 MSNM</altura>
+    </departamento>
+    <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Pipil</autoctono>
+        <segundo>Nahuat</segundo>
+    </idiomas>
+</pais>

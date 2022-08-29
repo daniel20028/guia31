@@ -1,0 +1,35 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"Dolar",
+		"@codtelefono":"+503",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"Sonsonate",
+				"cabecera":"Sonsonate",
+				"habitantes":"1,050,000",
+				"altura":"525 MSNM"
+			},
+			{
+				"@id":"3",
+				"@nombre":"La Unión",
+				"cabecera":"La Unión",
+				"habitantes":"750,000",
+				"altura":"352 MSNM"
+			}
+		],
+		"idiomas":{
+			"oficial":"Español",
+			"autoctono":"Pipil",
+			"segundo":"Nahuat"
+		}
+	}
+}

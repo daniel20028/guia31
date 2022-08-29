@@ -1,0 +1,6 @@
+/* ejercicio1b.css   CM20028  */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;} nombre {color:white; display:inline;} apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}
+telefono{color: chartreuse;} email{color: chartreuse;} url{color: chartreuse;}
+dui{color: chocolate;} isss{color: chocolate;} afp{color: chocolate;}

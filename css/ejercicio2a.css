@@ -1,0 +1,8 @@
+/* ejercicio2a.css   CM20028  */
+pais[nombre]::before{content: attr(nombre)" Moneda: "attr(moneda)
+    " Telefono area: "attr(codtelefono);}
+pais{background-color: antiquewhite;} departamento{background-color: aquamarine; display: block;}
+departamento[nombre]::before{content: attr(nombre);}
+cabecera{color: rgb(75, 85, 65);} habitantes{color: rgb(73, 82, 64);} altura{color: rgb(86, 95, 77);}
+idiomas{background-color: aquamarine; display: block;}
+oficial{color: blue;} autoctono{color: blue;} segundo{color: blue;}

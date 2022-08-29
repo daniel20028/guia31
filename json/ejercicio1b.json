@@ -1,0 +1,47 @@
+{
+	"fichero":{
+		"parsererror":{
+			"@style":"display: block; white-space: pre; border: 2px solid #c77; padding: 0 1em 0 1em; margin: 1em; background-color: #fdd; color: black",
+			"h3":[
+				"This page contains the following errors:",
+				"Below is a rendering of the page up to the first error."
+			],
+			"div":{
+				"@style":"font-family:monospace;font-size:12px",
+				"#text":"error on line 26 at column 26: expected '&gt;'\n"
+			}
+		},
+		"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"2/11/2012",
+				"nombre":"Pedro",
+				"apellido":"Perez",
+				"direccion":"Cerca de tu casa",
+				"telefono":"545478855",
+				"email":"asdkdd@gmla.com",
+				"url":"perezwebcite.org.com"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"3/11/2012",
+				"nombre":"Alvaro",
+				"apellido":"Morata",
+				"direccion":"Lejos de tu casa",
+				"telefono":"54558623",
+				"email":"morata234@gmla.com",
+				"url":"alvaro234morata.com",
+				"dui":"78956969-5",
+				"isss":"ajkade4456",
+				"afp":null
+			}
+		]
+	}
+}
